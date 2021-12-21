@@ -82,3 +82,21 @@ body{
     display: flex;
     border-radius: 10px;
 } */
+
+.contenedor_tarjetas{
+    max-width: 50rem;
+}
+
+.tarj {
+    width: 8rem;
+    height: 8rem;
+    padding-top: 6rem;
+    background-color: black;
+    border-radius: 1rem;
+    margin: 2rem;
+    display: inline-flex;
+}
+
+.tarj1{
+    padding-top: 20rem;
+}
